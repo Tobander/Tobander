@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 
-10+ years professional experience as software developer. Machine-Learning Enthusiast. Specialised in building Protoypes - bringing **Ideas** to **life**.
+10+ years professional experience as Software Engineer. Machine-Learning Enthusiast. Specialised in building Protoypes - bringing **Ideas** to **life**.
 
 Always questioning the status quo and wanting to improve. That could be Products, Features or Processes, doesn't **matter**, how can we make this **better**?
 
