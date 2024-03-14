@@ -2,6 +2,8 @@
 
 https://komarev.com/ghpvc/?username=Tobander
 
+<img src="https://komarev.com/ghpvc/?username=Tobander&style=flat-square&color=blue" alt=""/>
+
 ---
 
 ### :man_technologist: About Me :
