@@ -6,4 +6,5 @@ Always questioning the status quo and wanting to improve. That copuld be Product
 
 I also love to **teach** people cool stuff, so that they are able to **build** great staff.
 
-And I love ![python](https://github.com/Tobander/Tobander/assets/45336196/597b817d-3dad-4abb-862f-4a0f96f68f69)
+And I love ![python_icon](https://github.com/Tobander/Tobander/assets/45336196/646cc38f-73dd-4890-a941-4b1e331ffead)
+
