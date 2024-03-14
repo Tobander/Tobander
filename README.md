@@ -1,4 +1,4 @@
-![GitHub_BANNER](https://github.com/Tobander/Tobander/assets/45336196/1f2f6333-79b4-46ce-b604-6967469870ec)
+![header](https://github.com/Tobander/Tobander/assets/45336196/7fbccb11-bccf-4fc1-ba35-76e7b0b3e450)
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/tobias-laemmle/)">
