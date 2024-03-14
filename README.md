@@ -12,9 +12,9 @@
 
 10+ years professional experience as software developer. Machine-Learning Enthusiast. Specialised in building Protoypes - bringing **Ideas** to **life**.
 
-Always questioning the status quo and wanting to improve. That copuld be Products, Features or Processes, doesn't **matter**, how can we make this **better**?
+Always questioning the status quo and wanting to improve. That could be Products, Features or Processes, doesn't **matter**, how can we make this **better**?
 
-I also love to **teach** people cool stuff, so that they are able to **build** great staff.
+I also love to **teach** people cool stuff, so that they can **build** great staff.
 
 ---
 
