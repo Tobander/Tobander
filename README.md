@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--![GitHub_BANNER](https://github.com/Tobander/Tobander/assets/45336196/d297a729-da73-4011-9495-f8d7c97abe52)
 
-<!--
 **Tobander/Tobander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
