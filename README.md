@@ -8,4 +8,4 @@ I also love to **teach** people cool stuff, so that they are able to **build** g
 
 And I love ![python_icon](https://github.com/Tobander/Tobander/assets/45336196/646cc38f-73dd-4890-a941-4b1e331ffead).
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]([https://www.linkedin.com/in/tobias-laemmle/])
